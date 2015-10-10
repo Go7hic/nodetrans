@@ -1,0 +1,20 @@
+{
+  "name": "nodetrans",
+  "version": "0.1.2",
+  "description": "用 node.js 写的有道翻译命令行工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Go7hic",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "request": "^2.64.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "nodetrans": "index.js"
+  }
+
+}
