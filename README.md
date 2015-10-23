@@ -1,9 +1,11 @@
 #### Install
+
 ```
 [sudo] npm install nodetrans [-g]
 ```
 
 #### Usage
+
 ```
 $ nt hello
 
