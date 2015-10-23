@@ -5,7 +5,7 @@
 
 #### Usage
 ```
-$ nodetrans hello
+$ nt hello
 
  hello
 
