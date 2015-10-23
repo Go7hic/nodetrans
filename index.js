@@ -32,7 +32,6 @@ var prettify = function (data) {
 request('http://fanyi.youdao.com/openapi.do?keyfrom=Go7hic&key=2136922355&type=data&doctype=json&version=1.1&q='+words, function (error, response, body) {
     if (!error && response.statusCode == 200) {
         var result = prettify(JSON.parse(body));
-        console.log(result);
     }
 });
 
