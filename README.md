@@ -1,7 +1,7 @@
 #### Install
 
 ```
-[sudo] npm install nodetrans [-g]
+npm install nodetrans -g
 ```
 
 #### Usage
