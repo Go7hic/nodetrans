@@ -1,5 +1,7 @@
 #### Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dyygtfx/nodetrans.svg)](https://greenkeeper.io/)
+
 ```
 npm install nodetrans -g
 ```
